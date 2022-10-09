@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718500135968",
+    "project_id": "vid-firebase",
+    "storage_bucket": "vid-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718500135968:android:6da8678448d8b3bbdaa845",
+        "android_client_info": {
+          "package_name": "com.vid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718500135968-j3c7svpb5ais1sus84dipr3elst8la1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vid",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "718500135968-l4sicepu0p4epd5nl7ns01np84i9v3kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zUwGh2ZPvjSCvBqRd18DpUHLIQmxcOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718500135968-l4sicepu0p4epd5nl7ns01np84i9v3kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
